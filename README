@@ -1,0 +1,3 @@
+This is a simple graphical battery meter application.
+
+It displays an icon in the notification area of the desktop panel. The icons represents the battery level as the number of bars of maximum 5 bars.
